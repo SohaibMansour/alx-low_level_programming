@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_sign - Determines whether an integer is positive, negative or zero.
- * @n: the number to be checked.
+ * _isalpha - tests whether a character is from the English alphabet.
+ * @n:a character to be checked.
  * Return: 1 is n if true else 0
  */
 
