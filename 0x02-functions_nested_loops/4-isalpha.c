@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - tests whether a character is from the English alphabet.
- * @n:a character to be checked.
+ * @c:a character to be checked.
  * Return: 1 is n if true else 0
  */
 
