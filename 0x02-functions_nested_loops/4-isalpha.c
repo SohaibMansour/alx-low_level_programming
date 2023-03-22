@@ -6,11 +6,11 @@
  * Return: 1 is n if true else 0
  */
 
-int print_sign(int n)
+int _isalpha(int c)
 {
-	if (n >= 97 && n <= 122)
+	if (c >= 97 && c <= 122)
 		return (1);
-	if (n >= 65 && n <= 90)
+	if (c >= 65 && c <= 90)
 		return (1);
 	return (0);
 }
